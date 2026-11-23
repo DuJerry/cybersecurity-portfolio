@@ -1,0 +1,28 @@
+{
+  "scope_id": "wqe7002-a1-standard-tcp-syn-scan-v1",
+  "tool_version": "1.0.0",
+  "option": "tcp-syn-scan",
+  "utc_window": {
+    "start": "2026-11-06T06:13:47.609076+00:00",
+    "end": "2026-11-06T06:13:47.957696+00:00"
+  },
+  "target": "172.28.70.10",
+  "scan_results": [
+    {
+      "port": 22,
+      "status": "open"
+    },
+    {
+      "port": 80,
+      "status": "open"
+    },
+    {
+      "port": 443,
+      "status": "open"
+    },
+    {
+      "port": 8080,
+      "status": "open"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+ifconfig eth0 192.168.1.1/24
+ifconfig eth1 192.168.2.1/24
+# 开启IP转发
+echo 1 > /proc/sys/net/ipv4/ip_forward
+# 进入frr配置
+vtysh -c "conf t" \
+-c "router ospf" \
+-c "network 192.168.1.0/24 area 0" \
+-c "network 192.168.2.0/24 area 0"
+
