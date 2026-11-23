@@ -3,7 +3,6 @@ layout: home
 title: Home
 ---
 
-# Jerry Du — Cybersecurity Portfolio
 
 ## 1. About Me
 
@@ -25,7 +24,7 @@ My interest in cybersecurity grew from recognizing that many critical vulnerabil
 
 ## 3. Certifications and Training
 
-* **Software Design Engineer Qualification (软考软件设计师 / Software Engineer)** — Certified by the Ministry of Industry and Information Technology (MIIT), China (Earned)
+* **Software Design Engineer Qualification** — Certified by the Ministry of Industry and Information Technology (MIIT), China (Earned)
 * **Master of Cyber Security Program (2026/2027 Cohort)** — Universiti Malaya (In Progress, Expected Graduation: 2027)
   * *Semester I (2026/2027):* WQE7001 Cyber Security, WQE7002 Advanced Network Security Programming, WQE7007 Network Technology and Security
   * *Upcoming Core & Elective Focus (2027):* WQE7003 Cryptography and Information Hiding, WQE7004 Information Assurance, WQE7005 Advanced Digital Forensics, WQE7011 Advanced Computer Penetration and Defense
