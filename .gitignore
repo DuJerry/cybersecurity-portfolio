@@ -221,3 +221,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cybersecurity portfolio exclusions
+*.env
+*.pem
+*.key
+*.ova
+*.vmdk
+*.iso
+
+# Cybersecurity portfolio exclusions
+*.env
+*.pem
+*.key
+*.ova
+*.vmdk
+*.iso
