@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Jerry Du — Cybersecurity Portfolio
 
 ## 1. About Me
